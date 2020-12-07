@@ -2,7 +2,7 @@
   "dependencies": {
     "alpinejs": "^2.7.3",
     "autoprefixer": "^10.0.4",
-    "postcss": "^8.1.10",
+    "postcss": "^8.1.14",
     "tailwindcss": "^2.0.1"
   },
   "devDependencies": {

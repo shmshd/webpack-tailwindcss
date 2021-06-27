@@ -151,7 +151,7 @@ module.exports = {
                         minimize: {
                             removeComments: false,
                         },
-                        attributes: {
+                        sources: {
                             list: [
                                 {
                                     tag: 'img',
